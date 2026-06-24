@@ -1,4 +1,4 @@
-# Clinic Management System
+# Clinic Management System ( CMS )
 
 # Project Description
 Design and implement a Clinic Management System that models a simple real-world clinic.
