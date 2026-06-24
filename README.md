@@ -44,11 +44,11 @@ demonstrate polymorphism.
 
 # File Structure:
 * ClinicSystem.h
-Contains all class declarations (Person, Doctor, Patient, RegularPatient, EmergencyPatient,
+   - Contains all class declarations (Person, Doctor, Patient, RegularPatient, EmergencyPatient,
 Appointment).
 * ClinicSystem.cpp
-Contains the implementation of all class member functions.
+   - Contains the implementation of all class member functions.
 * main.cpp
-Contains the main() function used to create objects and demonstrate the system.
+   - Contains the main() function used to create objects and demonstrate the system.
 
 
