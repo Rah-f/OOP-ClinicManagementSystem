@@ -131,7 +131,11 @@ public:
 #endif
 
 /*
- * GitHub: https://github.com/Rah-f
- * Date: 30 June 2026
- * First-year Computer and Network Engineering student.
+ * ==========================================
+ * Author  : Rahaf Abdullah
+ * Major   : Computer and Network Engineering
+ * Year    : First Year
+ * GitHub  : https://github.com/Rah-f
+ * Created : 30 June 2026
+ * ==========================================
  */
