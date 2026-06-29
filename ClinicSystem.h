@@ -133,5 +133,5 @@ public:
 /*
  * GitHub: https://github.com/Rah-f
  * Date: 30 June 2026
- * First-year Computer Engineering student.
+ * First-year Computer and Network Engineering student.
  */
